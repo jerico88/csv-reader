@@ -70,13 +70,13 @@ npm start
 ### Frontend
 To run the frontend tests:
 ```
-cd src
+cd ../src
 npm test
 ```
 
 ### Backend
 To run the backend tests:
 ```
-cd server
+cd ../server
 npm test
 ```
